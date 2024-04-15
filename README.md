@@ -1,4 +1,9 @@
-# dlh_project
+# dlh_project Team 110
+
+James Yoo
+Scott Girten
+Edwin Jamsranjav
+
 Attached to repo is the notebook and the raw dataset that is publically available on the author's paper.
 Can download from the author's paper under supplementary information or from github and load it as done in the google colab instead of mounting.
 
