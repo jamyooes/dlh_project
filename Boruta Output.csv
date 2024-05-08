@@ -1,0 +1,178 @@
+Feature,Rank,Keep
+suspected_infection_time_poe_days,7,FALSE
+positiveculture_poe,47,FALSE
+blood_culture_positive,27,FALSE
+age,1,TRUE
+is_male,41,FALSE
+race_white,38,FALSE
+race_black,36,FALSE
+race_hispanic,54,FALSE
+race_other,25,FALSE
+metastatic_cancer,1,TRUE
+diabetes,32,FALSE
+icu_los,1,TRUE
+hosp_los,1,TRUE
+sepsis_angus,17,FALSE
+sepsis_martin,18,FALSE
+sepsis_explicit,1,TRUE
+septic_shock_explicit,1,TRUE
+severe_sepsis_explicit,1,TRUE
+sepsis_nqf,1,TRUE
+sepsis_cdc,12,FALSE
+sepsis_cdc_simple,1,TRUE
+elixhauser_hospital,1,TRUE
+vent,10,FALSE
+sofa,1,TRUE
+lods,1,TRUE
+sirs,12,FALSE
+qsofa,7,FALSE
+qsofa_sysbp_score,21,FALSE
+qsofa_gcs_score,19,FALSE
+qsofa_resprate_score,43,FALSE
+aniongap_min,1,TRUE
+aniongap_max,1,TRUE
+bicarbonate_min,1,TRUE
+bicarbonate_max,1,TRUE
+creatinine_min,1,TRUE
+creatinine_max,1,TRUE
+chloride_min,7,FALSE
+chloride_max,1,TRUE
+glucose_min,1,TRUE
+glucose_max,1,TRUE
+hematocrit_min,9,FALSE
+hematocrit_max,14,FALSE
+hemoglobin_min,16,FALSE
+hemoglobin_max,12,FALSE
+lactate_min,1,TRUE
+lactate_max,1,TRUE
+lactate_mean,1,TRUE
+platelet_min,1,TRUE
+platelet_max,1,TRUE
+potassium_min,1,TRUE
+potassium_max,4,FALSE
+inr_min,1,TRUE
+inr_max,1,TRUE
+sodium_min,1,TRUE
+sodium_max,1,TRUE
+bun_min,1,TRUE
+bun_max,1,TRUE
+bun_mean,1,TRUE
+wbc_min,1,TRUE
+wbc_max,1,TRUE
+wbc_mean,1,TRUE
+heartrate_min,1,TRUE
+heartrate_max,1,TRUE
+heartrate_mean,1,TRUE
+sysbp_min,1,TRUE
+sysbp_max,1,TRUE
+sysbp_mean,1,TRUE
+diasbp_min,1,TRUE
+diasbp_max,14,FALSE
+diasbp_mean,1,TRUE
+meanbp_min,1,TRUE
+meanbp_max,3,FALSE
+meanbp_mean,1,TRUE
+resprate_min,1,TRUE
+resprate_max,1,TRUE
+resprate_mean,1,TRUE
+tempc_min,1,TRUE
+tempc_max,1,TRUE
+tempc_mean,1,TRUE
+spo2_min,1,TRUE
+spo2_max,21,FALSE
+spo2_mean,1,TRUE
+glucose_min1,2,FALSE
+glucose_max1,4,FALSE
+glucose_mean,1,TRUE
+rrt,39,FALSE
+urineoutput,1,TRUE
+specimen_poe_ABSCESS,49,FALSE
+specimen_poe_BILE,51,FALSE
+specimen_poe_BLOOD CULTURE,29,FALSE
+specimen_poe_BLOOD CULTURE ( MYCO/F LYTIC BOTTLE),85,FALSE
+specimen_poe_BRONCHIAL WASHINGS,85,FALSE
+specimen_poe_BRONCHOALVEOLAR LAVAGE,61,FALSE
+specimen_poe_Blood (CMV AB),85,FALSE
+specimen_poe_Blood (EBV),74,FALSE
+specimen_poe_Blood (Malaria),107,FALSE
+specimen_poe_Blood (Toxo),107,FALSE
+specimen_poe_CATHETER TIP-IV,74,FALSE
+specimen_poe_CSF;SPINAL FLUID,85,FALSE
+specimen_poe_DIALYSIS FLUID,107,FALSE
+specimen_poe_FLUID RECEIVED IN BLOOD CULTURE BOTTLES,85,FALSE
+"specimen_poe_FLUID,OTHER",85,FALSE
+specimen_poe_FOREIGN BODY,107,FALSE
+specimen_poe_IMMUNOLOGY,64,FALSE
+specimen_poe_Immunology (CMV),85,FALSE
+specimen_poe_Influenza A/B by DFA,85,FALSE
+specimen_poe_JOINT FLUID,107,FALSE
+specimen_poe_MRSA SCREEN,33,FALSE
+specimen_poe_Mini-BAL,107,FALSE
+specimen_poe_NEOPLASTIC BLOOD,107,FALSE
+specimen_poe_PERITONEAL FLUID,68,FALSE
+specimen_poe_PLEURAL FLUID,68,FALSE
+specimen_poe_RAPID RESPIRATORY VIRAL ANTIGEN TEST,107,FALSE
+specimen_poe_Rapid Respiratory Viral Screen & Culture,107,FALSE
+specimen_poe_SEROLOGY/BLOOD,59,FALSE
+specimen_poe_SPUTUM,43,FALSE
+specimen_poe_STOOL,85,FALSE
+specimen_poe_SWAB,49,FALSE
+specimen_poe_Staph aureus Screen,74,FALSE
+specimen_poe_TISSUE,107,FALSE
+specimen_poe_URINE,35,FALSE
+"specimen_poe_URINE,KIDNEY",107,FALSE
+ethnicity_AMERICAN INDIAN/ALASKA NATIVE,107,FALSE
+ethnicity_AMERICAN INDIAN/ALASKA NATIVE FEDERALLY RECOGNIZED TRIBE,85,FALSE
+ethnicity_ASIAN,46,FALSE
+ethnicity_ASIAN - ASIAN INDIAN,74,FALSE
+ethnicity_ASIAN - CAMBODIAN,85,FALSE
+ethnicity_ASIAN - CHINESE,53,FALSE
+ethnicity_ASIAN - FILIPINO,107,FALSE
+ethnicity_ASIAN - JAPANESE,85,FALSE
+ethnicity_ASIAN - KOREAN,63,FALSE
+ethnicity_ASIAN - OTHER,107,FALSE
+ethnicity_ASIAN - THAI,107,FALSE
+ethnicity_ASIAN - VIETNAMESE,68,FALSE
+ethnicity_BLACK/AFRICAN,60,FALSE
+ethnicity_BLACK/AFRICAN AMERICAN,33,FALSE
+ethnicity_BLACK/CAPE VERDEAN,85,FALSE
+ethnicity_BLACK/HAITIAN,68,FALSE
+ethnicity_CARIBBEAN ISLAND,107,FALSE
+ethnicity_HISPANIC OR LATINO,52,FALSE
+ethnicity_HISPANIC/LATINO - CENTRAL AMERICAN (OTHER),107,FALSE
+ethnicity_HISPANIC/LATINO - COLOMBIAN,107,FALSE
+ethnicity_HISPANIC/LATINO - CUBAN,107,FALSE
+ethnicity_HISPANIC/LATINO - DOMINICAN,48,FALSE
+ethnicity_HISPANIC/LATINO - GUATEMALAN,107,FALSE
+ethnicity_HISPANIC/LATINO - HONDURAN,107,FALSE
+ethnicity_HISPANIC/LATINO - MEXICAN,107,FALSE
+ethnicity_HISPANIC/LATINO - PUERTO RICAN,56,FALSE
+ethnicity_HISPANIC/LATINO - SALVADORAN,107,FALSE
+ethnicity_MIDDLE EASTERN,68,FALSE
+ethnicity_MULTI RACE ETHNICITY,68,FALSE
+ethnicity_NATIVE HAWAIIAN OR OTHER PACIFIC ISLANDER,62,FALSE
+ethnicity_OTHER,45,FALSE
+ethnicity_PATIENT DECLINED TO ANSWER,68,FALSE
+ethnicity_PORTUGUESE,107,FALSE
+ethnicity_SOUTH AMERICAN,107,FALSE
+ethnicity_UNABLE TO OBTAIN,23,FALSE
+ethnicity_UNKNOWN/NOT SPECIFIED,25,FALSE
+ethnicity_WHITE,37,FALSE
+ethnicity_WHITE - BRAZILIAN,107,FALSE
+ethnicity_WHITE - EASTERN EUROPEAN,55,FALSE
+ethnicity_WHITE - OTHER EUROPEAN,85,FALSE
+ethnicity_WHITE - RUSSIAN,68,FALSE
+first_service_CMED,28,FALSE
+first_service_ENT,85,FALSE
+first_service_GU,57,FALSE
+first_service_GYN,85,FALSE
+first_service_MED,20,FALSE
+first_service_NMED,30,FALSE
+first_service_NSURG,42,FALSE
+first_service_OBS,85,FALSE
+first_service_OMED,31,FALSE
+first_service_ORTHO,58,FALSE
+first_service_PSURG,107,FALSE
+first_service_SURG,24,FALSE
+first_service_TRAUM,40,FALSE
+thirtyday_expire_flag,,TRUE
