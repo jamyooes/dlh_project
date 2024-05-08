@@ -15,7 +15,7 @@ https://colab.research.google.com/drive/1ONkUB5fzcmIJEzdsAQjxsHCSozpBhe3k?usp=sh
 Link to their paper
 https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-020-02620-5
 
-To run the code, go to the notebook and download the raw_datasets from the github repo.
+To run the code in the notebook, download the raw_datasets from the github repo.
 One can upload the files onto their google drive at the specified path in the notebook or modify the path.
 Alternatively one can run the notebook locally and change the data path to the location of the files downloaded.
 
